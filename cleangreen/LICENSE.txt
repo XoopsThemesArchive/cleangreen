@@ -1,0 +1,14 @@
+License:
+--------
+You are permitted to use this theme free of charge under the following conditions:
+a) You cannot remove the credits
+b) You are permitted to modify this theme, but you must retain the credits
+c) You cannot remove the link to MyWebResource
+d) You cannot port this theme to another platform (i.e.: phpNuke)
+e) You are permitted to distribute this theme provided it is in its original form
+
+If you cannot comply with any of the above conditions, please do not install this theme.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+To have a one-of-a-kind theme designed for your site, visit http://www.mywebresource.com/ or you can e-mail me at contact@mywebresource.com
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
